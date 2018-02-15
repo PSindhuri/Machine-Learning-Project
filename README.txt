@@ -54,10 +54,6 @@ Step 4 : The main project python notebook file is Sindhuri_ML_Project_Code.ipynb
 
 Now we can run this file Sindhuri_ML_Project_Code.ipynb and the Project_Report.pdf contains a summary of the results.
 
-In the folder ML_ANNOTATOR there is file named annotator.jar 
-This jar file was provided by Prof Shawn Healey,SDSU.
-It was used to create RoadInput.csv
-
 
 	 
 
