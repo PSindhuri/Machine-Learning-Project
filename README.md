@@ -1,0 +1,2 @@
+# Machine-Learning-Project
+This project uses regression models to predict the road surface quality score on a scale of 0 to 3 with 0 for unworn roads up to 3 for heavily worn-out roads. The dataset used is KITTI image dataset and each image is converted to a histogram of color with different bin sizes (10,16) to be used as feature vector for various models. Linear Regression, Support Vector Regression, Neural Networks, Random Forest Regressors have been used for predictions. Root Mean Square and Mean Absolute Error were used as performance evaluation metrics. 
