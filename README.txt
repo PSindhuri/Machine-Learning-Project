@@ -35,7 +35,7 @@ NOTE  : THE ABOVE TWO STEPS ARE ENOUGH AS THE INPUT FILES (HISTOGRAM OF IMAGE FI
 
 Step 1 : Download the dataset from the following link
  
-	 https://goo.gl/4YZ1Ur
+	
 
 	 This link contains cropped images of photos.
 	 Save all images into a folder named cropped.
